@@ -1,0 +1,20 @@
+html,body{
+    color: white;
+    background-color: black;
+}
+.abc{
+    text-align: center;
+    margin-top: 250px;
+}
+.abc h2{
+    font-size: 90px;
+    margin-bottom: 20px;
+}
+.abc button{
+    font-size: 20px;
+    color: white;
+    padding:10px 20px;
+    background-color: hotpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px 0px 10px 0px;
+}
